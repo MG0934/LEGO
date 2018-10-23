@@ -62,14 +62,15 @@
 2. xxxx
 3. xxxx
 
-<center>
 
-**“大圣，此去欲何?”**
+--- 
 
-**“踏南天，碎凌霄。”**
+<p align="center">“大圣，此去欲何?”</p>
 
-**“若一去不回？”**
+<p align="center">“踏南天，碎凌霄。”</p>
 
-**“便一去不回！”**
-    :blush:
-</center>
+<p align="center">“若一去不回？”</p>
+
+<p align="center">“便一去不回！”</p>
+
+<p align="center">:blush:</p>
